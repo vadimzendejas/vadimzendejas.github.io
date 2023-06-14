@@ -1,8 +1,9 @@
 source "https://rubygems.org"
 
-# gem "jekyll"
-gem "github-pages", "~> 228", group: :jekyll_plugins
+gem "jekyll", '~> 4.3'
+# gem "github-pages", "~> 228", group: :jekyll_plugins
 gem "webrick"
+gem "faraday-retry"
 
 group :jekyll_plugins do
     gem 'jekyll-tagging'
