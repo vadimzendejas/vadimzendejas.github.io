@@ -23,15 +23,13 @@ exclude:
   - LICENSE
   - README.md
 
-gems:
-  - jekyll/tagging 
-
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll/tagging 
 
 whitelist:
   - jekyll-sitemap
