@@ -29,6 +29,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll/tagging
 
 whitelist:
   - jekyll-sitemap
