@@ -6,4 +6,10 @@ This website was built using [Jekyll](https://jekyllrb.com/) and [Cvless Jekyll]
 
 Enjoy!
 
-All rights reserved Vadim Zendejas 2023
+*All rights reserved Vadim Zendejas 2023*
+
+
+### Deploy GitHub Page
+
+1. Execute command `update_tags now` before pushing the repository
+2. Commit and push branch `main` into GitHub, budnle of GitHub page will happen automatically

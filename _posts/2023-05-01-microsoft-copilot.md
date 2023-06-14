@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Microsoft 365 Copilot—A whole new way to work
 lead: Copilot combines the power of language models with your data in the Microsoft 365 apps and Microsoft Graph to turn your words into the most powerful productivity tool on the planet.
-tags: innovation ai copilot microsoft modernworkplace
+tags: ["innovation", "ai", "copilot", "microsoft", "modernworkplace"]
 ---
 
 Changing how we do work. Trully impressive innovation using AI. Welcome to the new modern workplace!
