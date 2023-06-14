@@ -3,6 +3,7 @@
 Welcome to Vadim Zendejas Website.
 
 This website was built using [Jekyll](https://jekyllrb.com/) and [Cvless Jekyll](https://github.com/piazzai/cvless) template. Deployed under GitHub pages.
+The [Update Tags](https://github.com/pachun/update_tags) gem plugin is used for static tag pages creation.
 
 Enjoy!
 
