@@ -2,7 +2,7 @@
 layout: post
 title: Microsoft Japan Global Connect 2022
 lead: Helping Microsoft Japanese Global customers to be successful on their ride trough the cloud.
-tags: ["microsoft", "japan", "digitaltransformaton", "global", "team"]
+tags: microsoft japan digitaltransformaton global team
 
 ---
 
