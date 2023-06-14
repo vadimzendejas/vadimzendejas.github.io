@@ -23,6 +23,11 @@
   <script src="{{ '/assets/js/particles.min.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   {% endif %}
+
+  {% if site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
+
 </body>
 
 </html>

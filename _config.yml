@@ -29,6 +29,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-github-metadata
 
 whitelist:
   - jekyll-sitemap
@@ -45,6 +46,8 @@ autopages:
 
 tag_page_layout: tag
 tag_page_dir: tags
+
+google_analytics: G-MG6KWMXXM6
 
 pagination:
   enabled: true
