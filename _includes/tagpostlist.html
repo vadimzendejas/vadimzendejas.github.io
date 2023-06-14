@@ -1,0 +1,10 @@
+{% if post.tags or page.tags %}
+    {% assign tags = post.tags %}
+    {% if page.tags %}
+        {% assign tags = page.tags %}
+    {% endif %} 
+    
+    {% for tag in tags %}
+    <a class="tag-link" href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}" rel="tag">#{{ tag }}</a>
+    {% endfor %}
+{% endif %}

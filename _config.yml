@@ -1,0 +1,56 @@
+# site settings
+
+title: Vadim Zendejas
+description: Vadim Zendejas Home Page
+taglong: Global Technology Leader <br> Board Advisor | Value Investor
+tagshort: Global Technology Leader
+url: https://vadimzendejas.com
+baseurl: ""
+permalink: pretty
+repo: https://github.com/vadimzendejas/vadimzendejas.github.io
+
+# author settings
+
+author:
+  name: Vadim Zendejas
+  email: vadimzendejas@gmail.com
+photo: /assets/photo.png
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+gems:
+  - jekyll/tagging 
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+tag_page_layout: tag
+tag_page_dir: tags
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
