@@ -9,4 +9,4 @@ It is very exciting to see advancements in fundamental physics and the use of sc
 
 The milestone was presented in peer-reviewed data just published in the American Physical Society (APS Physics) journal, Physical Review B.
 
-[https://cloudblogs.microsoft.com/quantum/2023/06/21/microsoft-achieves-first-milestone-towards-a-quantum-supercomputer/](https://cloudblogs.microsoft.com/quantum/2023/06/21/microsoft-achieves-first-milestone-towards-a-quantum-supercomputer/)
+{% linkpreview "https://cloudblogs.microsoft.com/quantum/2023/06/21/microsoft-achieves-first-milestone-towards-a-quantum-supercomputer/" %}

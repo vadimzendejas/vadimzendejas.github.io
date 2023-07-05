@@ -7,4 +7,4 @@ tags: innovation ai copilot microsoft modernworkplace artificialintelligence
 
 Changing how we do work. Trully impressive innovation using AI. Welcome to the new modern workplace!
 
-[https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/)
+{% linkpreview "https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/" %}

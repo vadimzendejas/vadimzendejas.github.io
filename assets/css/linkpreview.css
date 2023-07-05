@@ -1,0 +1,32 @@
+.jekyll-linkpreview-wrapper {
+  margin-bottom: 20px;
+}
+
+.jekyll-linkpreview-wrapper-inner {
+  border: 1px solid rgba(0,0,0,.1);
+  border-radius: 5px;
+  padding: 12px;
+}
+
+.jekyll-linkpreview-image {
+}
+
+.jekyll-linkpreview-image img {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+jekyll-linkpreview-title {
+  font-size: 1.25em;
+  margin-top: 1em;
+}
+
+jekyll-linkpreview-body h2 {
+  margin-top: 1em;
+}
+
+.jekyll-linkpreview-description {
+}
+
+.jekyll-linkpreview-footer {
+}

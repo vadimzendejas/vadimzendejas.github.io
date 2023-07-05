@@ -13,4 +13,4 @@ I am humbled to be working and partnering with one of the best teams ever! It wa
  
 Also, big thanks to Huma Zaidi and Juri Obuchi for helping to organize and all the teams around us who day to day support our business.
 
-![Japan Global Connect 2022]({{ site.baseurl }}/assets/2022-09-15-japan-global-connect-01.jpg "Japan Global Connect 2022")
+![Japan Global Connect 2022]({{ site.baseurl }}/assets/img/2022-09-15-japan-global-connect-01.jpg "Japan Global Connect 2022")

@@ -11,4 +11,4 @@ I am very fortunate to be able to see the success of this partnership trough tec
 
 Kudos to all the NTT Ltd. and Microsoft teams who are making this possible! You rock!
 
-[https://www.frontier-enterprise.com/ntt-rises-to-the-cloud-with-azure/](https://www.frontier-enterprise.com/ntt-rises-to-the-cloud-with-azure/)
+{% linkpreview "https://www.frontier-enterprise.com/ntt-rises-to-the-cloud-with-azure/" %}

@@ -18,4 +18,4 @@ tasks, but without concerns for sure, trough history this has generated debate a
 uncertainty. But nevertheless, we have been evolving how we see work, what is important 
 and we have been more focus on brining value.
 
-[https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
+{% linkpreview "https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai" %}

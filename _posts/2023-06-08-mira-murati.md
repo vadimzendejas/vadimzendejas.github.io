@@ -7,4 +7,4 @@ tags: chatgpt openai artificialintelligence miramurati ai
 
 A pride for all my Albanian friends! Thanks Mira Murati for all the contributions to a new era of humanity and technology!
 
-[https://luxonomy.net/en/mira-murati-the-brilliant-mind-behind-chatgpt/](https://luxonomy.net/en/mira-murati-the-brilliant-mind-behind-chatgpt/)
+{% linkpreview "https://luxonomy.net/en/mira-murati-the-brilliant-mind-behind-chatgpt/" %}
