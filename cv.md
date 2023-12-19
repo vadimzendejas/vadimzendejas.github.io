@@ -13,9 +13,15 @@ See my full profile in <a href="https://www.linkedin.com/in/vadimzendejas/">Link
 
 ### Microsoft
 
-> Nov 2016 - Present
 
-Executive Officer and Director of Global Customer Success Japan <br /> 業務執行役員 
+Executive Officer and Director of Global Technical Sales Japan <br /> 業務執行役員 
+
+> Jun 2023 - Present
+
+Executive Officer and Director of Global Customer Success Japan <br /> 業務執行役員
+
+> Nov 2016 - Jun 2023
+
 
 ---
 
