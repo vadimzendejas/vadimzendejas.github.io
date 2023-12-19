@@ -41,7 +41,7 @@ EduGamiTec
 
 ### Amazon Web Services
 
-> Nov 2016 - Nov 2016 <br>
+> Apr 2013 - Nov 2016 <br>
 > Luxembourg
 
 EMEA Global Strategic Alliances Solutions Architecture Lead 
