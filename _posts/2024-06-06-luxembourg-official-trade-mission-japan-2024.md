@@ -9,4 +9,4 @@ I am thrilled to share that I've been invited to join the Luxembourg Official Tr
 
 The delegation will be headed by H.R.H. the Crown Prince of Luxembourg and led by H.E. the Vice Prime Minister and Minister for Foreign Affairs and Foreign Trade Xavier Bettel, Minister of the Economy Lex Delles, and Carlo Thelen, CEO of the Luxembourg Chamber of Commerce.
 
-{% linkpreview "https://app.connect2business.lu/event/mission-japan" %}
+{% linkpreview "https://www.cc.lu/agenda/detail/official-mission-to-japan-2024" %}
