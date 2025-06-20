@@ -17,10 +17,10 @@ The delegation will be headed by H.R.H. the Crown Prince of Luxembourg and led b
 {% linkpreview "https://www.cc.lu/agenda/detail/official-mission-to-japan-2024" %}
 
 
-![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-01.jpeg "Luxembourg Official Trade Mission to Japan 2024")
-![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-02.jpeg "Luxembourg Official Trade Mission to Japan 2024")
-![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-03.jpeg "Luxembourg Official Trade Mission to Japan 2024")
-![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-04.jpeg "Luxembourg Official Trade Mission to Japan 2024")
-![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-05.jpeg "Luxembourg Official Trade Mission to Japan 2024")
-![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-06.jpeg "Luxembourg Official Trade Mission to Japan 2024")
-![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-07.jpeg "Luxembourg Official Trade Mission to Japan 2024")
+![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-01.jpeg "Luxembourg Official Trade Mission to Japan 2024 - 01")
+![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-02.jpeg "Luxembourg Official Trade Mission to Japan 2024 - 02")
+![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-03.jpeg "Luxembourg Official Trade Mission to Japan 2024 - 03")
+![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-04.jpeg "Luxembourg Official Trade Mission to Japan 2024 - 04")
+![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-05.jpeg "Luxembourg Official Trade Mission to Japan 2024 - 05")
+![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-06.jpeg "Luxembourg Official Trade Mission to Japan 2024 - 06")
+![Luxembourg Official Trade Mission to Japan 2024]({{ site.baseurl }}/assets/img/2024-06-23-trade-mission-japan-07.jpeg "Luxembourg Official Trade Mission to Japan 2024 - 07")
