@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NTT Data Business Solutions improves SAP code translation and generation with Azure
-lead: Exiting times at Microsoft Ignite 2024
+lead: Collaboration between Microsoft Japan Global team and NTT Data Business Solutions with SAP
 tags: innovation ai sap azure ntt microsoft coding appinnovation
 ---
 
