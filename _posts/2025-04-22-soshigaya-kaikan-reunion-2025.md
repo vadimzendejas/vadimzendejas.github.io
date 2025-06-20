@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soshigaya Kaika Reunion after 15 years
+title: Soshigaya Kaikan Reunion after 15 years
 lead: A full circle moment after 15 years of friendship
 tags: friendship stayconnected reunion family
 ---
