@@ -2,7 +2,7 @@
 layout: post
 title: Microsoft Ignite 2024
 lead: Exiting times at Microsoft Ignite 2024
-tags: microsoft MicrosoftIgnite AI Productivity Security Innovation Collaboration Japan Toyota Nissan
+tags: microsoft microsoftignite ai productivity security innovation collaboration japan toyota nissan
 ---
 
 This year's event was packed with groundbreaking announcements that are set to transform how we work and collaborate. From the introduction of Copilot Actions that streamline our daily tasks to innovative AI agents in Teams that can translate and replicate voices in real-time, the future of work is looking brighter than ever!  One highlight for me was the launch of the Security Exposure Management tool. In today's digital landscape, understanding our security posture is crucial, and this tool will empower organizations to manage vulnerabilities effectively.  Additionally, the enhancements to Windows 365 and the new Azure AI Foundry are game-changers for developers and businesses alike, making AI more accessible and impactful.
